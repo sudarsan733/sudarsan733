@@ -28,11 +28,6 @@
 
 ## 💻 Tech Stack:
 
-## 💻 Tech Stack
-
-## 💻 Tech Stack
-
-## 💻 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
